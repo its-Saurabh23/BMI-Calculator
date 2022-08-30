@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(122, 145, 168);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ 
+.btn{
+    cursor:pointer;
+    margin-left: -122px;
+    border-color: brown;
+    border-radius: 10px;
+}
+
+#result{
+    margin-top: 11px;
+}
+ 
+.para{
+    margin-bottom: 11px;
+}
+#weight{
+    border-radius: 50px;
+    
+}
+#height{
+    border-radius: 50px;
+}
